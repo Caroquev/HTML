@@ -1,0 +1,40 @@
+#global{
+    display: flex;
+    align-items: baseline;
+}
+
+#uno{
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+#dos{
+    background-color:yellow;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+#tres{
+    background-color:green;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+#cuatro{
+    background-color: blue;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+    align-self: center;
+}
+
+#cinco{
+    background-color:orange;
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+}
